@@ -1,8 +1,6 @@
 # 🚀 Pull Request
 
-_Describe your changes here. What does this PR do? What should reviewers know before merging?_
-
----
+Describe your changes here. What does this PR do? What should reviewers know before merging?
 
 <details>
 <summary>✅ Review Checklist (expand to complete)</summary>
