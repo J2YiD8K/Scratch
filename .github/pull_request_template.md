@@ -6,7 +6,7 @@ Describe your changes here. What does this PR do? What should reviewers know bef
 <summary>✅ Review Checklist (expand to complete)</summary>
 
 ### 🧠 Code Review  
-Refer to [Code Review Checklist](checklists/CODE_REVIEW_CHECKLIST.md)
+Refer to [Code Review Checklist](https://github.com/J2YiD8K/Scratch/blob/main/checklists/CODE_REVIEW_CHECKLIST.md)
 
 - [ ] Plugin architecture follows best practices  
 - [ ] Queries and data access are optimized  
@@ -15,7 +15,7 @@ Refer to [Code Review Checklist](checklists/CODE_REVIEW_CHECKLIST.md)
 - [ ] Code style and documentation are clean  
 
 ### 🔁 Power Automate Flow Review (if applicable)  
-Refer to [Flow Review Checklist](checklists/FLOW_REVIEW_CHECKLIST.md)
+Refer to [Flow Review Checklist](https://github.com/J2YiD8K/Scratch/blob/main/checklists/FLOW_REVIEW_CHECKLIST.md)
 
 - [ ] Flow is modular and solution-aware  
 - [ ] Connection references and environment variables used  
