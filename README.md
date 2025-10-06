@@ -1,5 +1,5 @@
 # Scratch
-A Scratch Repo for trying cool. 
+A Scratch Repo for trying cool stuff. 
 
 ## ✅ Development Standards
 
